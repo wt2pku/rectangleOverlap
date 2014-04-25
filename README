@@ -1,0 +1,6 @@
+1. Run "make -f makefile" to compile the code;
+2. Run "./rec [file name]" to run the testcases, for example, "./rec test1.dat" will run "test1.dat" as testcase.
+
+If there is any problem, please contact:
+Tao Wang
+twcv8@mst.edu
